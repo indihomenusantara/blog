@@ -1,0 +1,43 @@
+baseURL = 'http://avengerindihome.github.io/'
+languageCode = 'en-us'
+title = 'Avenger Indihome'
+theme = "github-style-master"
+googleAnalytics = "328142654"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "Avenger Telkom Indihome"
+  description = "Phone / WA 0823082305699"
+  facebook = "slavink4"
+  twitter = "Slavink4"
+  instagram = "nofe_green"
+  email = "nusantara.indihome@gmail.com"
+  url = "http://avengerindihome.github.io"
+  keywords = "blog, google analytics"
+  rss = false
+  lastmod = true
+  userStatusEmoji = "😀"
+  favicon = "/images/github.png"
+  location = "Indonesia"
+  enableGitalk = false
+
+  [params.gitalk]
+    clientID = "Your client ID" 
+    clientSecret = "Your client secret" 
+    repo = "repo"
+    owner = "nofe_green"
+    admin = "nofe_green"
+    id = "location.pathname"
+    labels = "gitalk"
+    perPage = 15
+    pagerDirection = "last"
+    createIssueManually = true
+    distractionFreeMode = false
+
+  [[params.links]]
+    title = "Link"
+    href = "https://sites.google.com/view/indihomesolok/"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
