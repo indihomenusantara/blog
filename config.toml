@@ -2,7 +2,7 @@ baseURL = 'http://avengerindihome.github.io/'
 languageCode = 'en-us'
 title = 'Avenger Indihome'
 theme = "github-style-master"
-googleAnalytics = "328142654"
+googleAnalytics = "3997222644"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
