@@ -14,7 +14,7 @@ Pada paket promo kali ini adalah diskon biaya pemasangan baru sebesar 77%, yang 
 
     * Benefit : Free Lokal dan SLjj 50 Menit, Disney + Hotstar
 
-![Teks alternatif](/img/tiga-puluh/dua_p_30.jpg)
+![Teks alternatif](https://github.com/indihomenusantara/blog/blob/main/img/tiga-puluh/dua_p_30.jpg)
 
 ----------
 
@@ -22,7 +22,7 @@ Pada paket promo kali ini adalah diskon biaya pemasangan baru sebesar 77%, yang 
 
     * Benefit : Free Lokal dan SLjj 50 Menit, Disney + Hotstar
 
-![Teks alternatif](/img/tiga-puluh/dua_p_50.jpg)
+![Teks alternatif](https://github.com/indihomenusantara/blog/blob/main/img/tiga-puluh/dua_p_50.jpg)
 
 ----------
 
@@ -30,7 +30,7 @@ Pada paket promo kali ini adalah diskon biaya pemasangan baru sebesar 77%, yang 
 
     * Benefit : Free Lokal dan SLjj 50 Menit, Disney + Hotstar
 
-![Teks alternatif](/img/tiga-puluh/dua_p_100.jpg)
+![Teks alternatif](https://github.com/indihomenusantara/blog/blob/main/img/tiga-puluh/dua_p_100.jpg)
 
 ----------
 
