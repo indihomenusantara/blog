@@ -1,4 +1,4 @@
-baseURL = 'http://avengerindihome.github.io/'
+baseURL = 'https://indihomenusantara.github.io/blog/'
 languageCode = 'en-us'
 title = 'Avenger Indihome'
 theme = "github-style-master"
@@ -13,7 +13,7 @@ pygmentsUseClasses = true
   twitter = "Slavink4"
   instagram = "nofe_green"
   email = "nusantara.indihome@gmail.com"
-  url = "http://avengerindihome.github.io"
+  url = "https://indihomenusantara.github.io/blog/"
   keywords = "blog, google analytics"
   rss = false
   lastmod = true
